@@ -35,7 +35,7 @@ This is a simple turn-based resource-gathering game where players control dwarve
 2. Navigate to the game directory.
 3. Run the script:
    ```sh
-   python game.py
+   python main.py
    ```
 
 ## Assets
